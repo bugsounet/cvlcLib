@@ -1,1 +1,1 @@
-# cvlc
+# @bugsounet/cvlc library
