@@ -1,6 +1,6 @@
 {
   "name": "@bugsounet/cvlc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create and control CVLC with node js",
   "main": "index.js",
   "repository": {
@@ -8,9 +8,9 @@
     "url": "https://github.com/bugsounet/cvlc.git"
   },
   "dependencies": {
+    "portfinder": "~0.4.0",
     "protoblast": "~0.1.11",
-    "telnet-client": "~0.5.0",
-    "portfinder": "~0.4.0"
+    "telnet-client": "~0.5.0"
   },
   "author": [
     "Jelle De Loecker <jelle@develry.be>",
