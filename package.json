@@ -1,6 +1,6 @@
 {
   "name": "@bugsounet/cvlc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create and control CVLC with node js",
   "main": "index.js",
   "repository": {
