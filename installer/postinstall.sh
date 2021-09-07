@@ -27,6 +27,7 @@ Installer_module="@bugsounet/cvlc"
 Installer_info "Install YouTube lua..."
 mkdir -p ~/.local/share/vlc/lua/playlist/
 cd ~/.local/share/vlc/lua/playlist/
+rm -f youtube.lua
 wget https://raw.githubusercontent.com/videolan/vlc/master/share/lua/playlist/youtube.lua
 
 Installer_success "$Installer_module is now installed !"
