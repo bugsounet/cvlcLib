@@ -1,8 +1,11 @@
 {
   "name": "@bugsounet/cvlc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Create and control CVLC with node js",
   "main": "index.js",
+  "scripts": {
+    "postinstall": "installer/postinstall.sh"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bugsounet/cvlc.git"
