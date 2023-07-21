@@ -1,1 +1,1 @@
-# @bugsounet/cvlc library
+# @magicmirror2/cvlc library
